@@ -24,3 +24,5 @@ Before running this project, make sure you have the following installed:
 1. **Clone this repository** to your local machine:
    ```bash
    git clone [https://github.com/username-kamu/eat-in.git](https://github.com/username-kamu/eat-in.git)
+
+HERE: [Final Assigment](eat_in_loc-main/lib/main.dart)
