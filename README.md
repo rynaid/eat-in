@@ -1,17 +1,26 @@
-# eat_in_loc
+# Eat In Loc 🍕
 
-A new Flutter project.
+A mobile application project developed for the **Pemrograman Perangkat Bergerak** (Mobile Programming) course in Semester 1. This application is built using the **Flutter** framework.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+* **Location-Based Food Search**: Helps users find the best places to eat nearby.
+* **Modern UI/UX**: Clean and intuitive interface tailored for mobile devices.
+* **Multi-platform Support**: Compatible with Android and iOS platforms.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 🛠️ Tech Stack & Prerequisites
+Before running this project, make sure you have the following installed:
+* **Flutter SDK** (Latest Stable Version)
+* **Dart SDK**
+* **Android Studio** or **VS Code** (with Flutter & Dart extensions)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 💻 How to Run the Project Local
+
+1. **Clone this repository** to your local machine:
+   ```bash
+   git clone [https://github.com/username-kamu/eat-in.git](https://github.com/username-kamu/eat-in.git)
