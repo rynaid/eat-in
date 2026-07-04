@@ -25,4 +25,4 @@ Before running this project, make sure you have the following installed:
    ```bash
    git clone [https://github.com/username-kamu/eat-in.git](https://github.com/username-kamu/eat-in.git)
 
-HERE: [Final Assigment](eat-in/lib/main.dart)
+HERE: [Final Assigment](lib/main.dart)
